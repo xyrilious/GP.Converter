@@ -1,0 +1,15 @@
+C:\Users\VGD pc 2\source\repos\XyrilleMamalateo.GPCONVERTER\bin\Debug\XyrilleMamalateo.GPCONVERTER.exe.config
+C:\Users\VGD pc 2\source\repos\XyrilleMamalateo.GPCONVERTER\bin\Debug\XyrilleMamalateo.GPCONVERTER.exe
+C:\Users\VGD pc 2\source\repos\XyrilleMamalateo.GPCONVERTER\bin\Debug\XyrilleMamalateo.GPCONVERTER.pdb
+C:\Users\VGD pc 2\source\repos\XyrilleMamalateo.GPCONVERTER\obj\Debug\XyrilleMamalateo.GPCONVERTER.csprojAssemblyReference.cache
+C:\Users\VGD pc 2\source\repos\XyrilleMamalateo.GPCONVERTER\obj\Debug\MainWindow.g.cs
+C:\Users\VGD pc 2\source\repos\XyrilleMamalateo.GPCONVERTER\obj\Debug\App.g.cs
+C:\Users\VGD pc 2\source\repos\XyrilleMamalateo.GPCONVERTER\obj\Debug\XyrilleMamalateo.GPCONVERTER_MarkupCompile.cache
+C:\Users\VGD pc 2\source\repos\XyrilleMamalateo.GPCONVERTER\obj\Debug\XyrilleMamalateo.GPCONVERTER_MarkupCompile.lref
+C:\Users\VGD pc 2\source\repos\XyrilleMamalateo.GPCONVERTER\obj\Debug\MainWindow.baml
+C:\Users\VGD pc 2\source\repos\XyrilleMamalateo.GPCONVERTER\obj\Debug\XyrilleMamalateo.GPCONVERTER.g.resources
+C:\Users\VGD pc 2\source\repos\XyrilleMamalateo.GPCONVERTER\obj\Debug\XyrilleMamalateo.GPCONVERTER.Properties.Resources.resources
+C:\Users\VGD pc 2\source\repos\XyrilleMamalateo.GPCONVERTER\obj\Debug\XyrilleMamalateo.GPCONVERTER.csproj.GenerateResource.cache
+C:\Users\VGD pc 2\source\repos\XyrilleMamalateo.GPCONVERTER\obj\Debug\XyrilleMamalateo.GPCONVERTER.csproj.CoreCompileInputs.cache
+C:\Users\VGD pc 2\source\repos\XyrilleMamalateo.GPCONVERTER\obj\Debug\XyrilleMamalateo.GPCONVERTER.exe
+C:\Users\VGD pc 2\source\repos\XyrilleMamalateo.GPCONVERTER\obj\Debug\XyrilleMamalateo.GPCONVERTER.pdb
